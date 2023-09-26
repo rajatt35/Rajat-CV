@@ -29,13 +29,13 @@ z-index: 3
 margin-top.rem: -72
 border-radius.px: 10
 
--- profile.wrapper: Victor Crest
-avatar: $assets.files.images.image-victor.jpg
-city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
-twitter-url: https://twitter.com/
+-- profile.wrapper: Rajat Tajne
+avatar: $assets.files.images.rajat.jpg
+city: Nagpur
+github-url: https://github.com/rajatt35
+linkedin-url: https://www.linkedin.com/in/rajat-tajne-9b16bb234/
+instagram-url: https://www.instagram.com/meagainrajat/
+twitter-url: https://twitter.com/rajat_t35
 
 -- end: ftd.container
 
@@ -78,13 +78,13 @@ z-index: 3
 margin-top.rem: -70
 border-radius.px: 10
 
--- profile.wrapper: Victor Crest
-avatar: $assets.files.images.image-victor.jpg
-city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
-twitter-url: https://twitter.com/
+-- profile.wrapper: Rajat Tajne
+avatar: $assets.files.images.rajat.jpg
+city: Nagpur
+github-url: https://github.com/rajatt35
+linkedin-url: https://www.linkedin.com/in/rajat-tajne-9b16bb234/
+instagram-url: https://www.instagram.com/meagainrajat/
+twitter-url: https://twitter.com/rajat_t35
 
 -- end: ftd.container
 
